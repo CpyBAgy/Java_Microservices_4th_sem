@@ -2,8 +2,6 @@
 Java programming 4th semester
 
 
-##Tasks
-
 # Lab-1
 
 ## Изучение синтаксиса языка Java и нового окружения.
