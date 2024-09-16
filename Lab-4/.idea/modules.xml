@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/Lab-4.Application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/Lab-4.Application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataAccess/Lab-4.DataAccess.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DataAccess/Lab-4.DataAccess.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Presentation/Lab-4.Presentation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Presentation/Lab-4.Presentation.main.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78e4d94c-1706-4c71-84b8-872d5aed4b78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/CpyBAgy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/DataAccess/Lab-4.DataAccess.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/CatsMicroservice/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/ExternalInterfacesMicroservice/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/Models/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/OwnersMicroservice/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/OwnersMicroservice/build/tmp/compileJava/compileTransaction/stash-dir/OwnersApplication.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab-5/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-5/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Account/AccountFactory/AccountFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Account/AccountFactory/IAccountFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Account/AccountType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Account/CreditAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Account/DebitAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Account/DepositAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Account/IAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Bank/IBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Bank/MainBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Bank/StandartBank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Bank/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Notifications/OperationNotification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Notifications/PercentageNotification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/main/java/org/example/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-1/src/test/java/tests/BankTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/java/com/CpyBAgy/javarush/DTO/ClientDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/java/com/CpyBAgy/javarush/Mappers/ClientMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/java/com/CpyBAgy/javarush/Services/ClientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/java/com/CpyBAgy/javarush/Services/IClientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAccess/src/main/java/com/CpyBAgy/javarush/Entities/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAccess/src/main/java/com/CpyBAgy/javarush/Repositories/ClientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Presentation/src/main/java/com/CpyBAgy/javarush/Controllers/ClientController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Presentation/src/main/java/com/CpyBAgy/javarush/Models/ClientModels/UpdateClientModel.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2hH7S9tTNtmuQqcgQi0KRrLV6B0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Lab-4.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Application.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ivanbaskatov/2_Итма/Programming/IdeaProjects/CpyBAgy/Lab-4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Lab-4.Presentation.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.CpyBAgy.javarush.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-azul-18.0.2.1-4caba194b151-86c6c00a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78e4d94c-1706-4c71-84b8-872d5aed4b78" name="Changes" comment="" />
+      <created>1717239146819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717239146819</updated>
+      <workItem from="1717239147859" duration="456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
